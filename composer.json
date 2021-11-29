@@ -1,0 +1,18 @@
+{
+    "name": "yuankezhan/yii-tiny-editor",
+    "type": "library",
+    "require": {
+        "yuankezhan/yii2-widget-media-library": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yuankezhan\\YiiTinyEditor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhc",
+            "email": "741698941@qq.com"
+        }
+    ]
+}
