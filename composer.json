@@ -3,12 +3,10 @@
     "type": "library",
     "license": "MIT",
     "require": {
-        "yuankezhan/yii2-widget-media-library": ">=1.0",
         "php": ">=5.4"
     },
 
     "require-dev": {
-        "yuankezhan/yii2-widget-media-library": ">=1.0",
         "php": ">=5.4"
     },
     "autoload": {
