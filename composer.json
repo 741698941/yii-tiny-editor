@@ -3,12 +3,12 @@
     "type": "library",
     "license": "MIT",
     "require": {
-        "yuankezhan/yii2-widget-media-library": ">=1.0.3",
+        "yuankezhan/yii2-widget-media-library": ">=1.0",
         "php": ">=5.4"
     },
 
     "require-dev": {
-        "yuankezhan/yii2-widget-media-library": ">=1.0.3",
+        "yuankezhan/yii2-widget-media-library": ">=1.0",
         "php": ">=5.4"
     },
     "autoload": {
@@ -22,6 +22,7 @@
             "email": "741698941@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
