@@ -3,7 +3,7 @@
     "type": "library",
     "license": "MIT",
     "require": {
-        "yuankezhan/yii2-widget-media-library": "^1.0"
+        "yuankezhan/yii2-widget-media-library": "^1.0.3"
     },
     "autoload": {
         "psr-4": {
